@@ -2,8 +2,7 @@
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
-![C#] ()
-![Python] ()
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ### Frontend development:
 &emsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
