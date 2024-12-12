@@ -3,7 +3,10 @@
 <hr>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-
+<div align="left">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="180px" />
+    
+</div>
 
 ```
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
@@ -19,7 +22,8 @@
 <hr>
 
 </h4>  
-  
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
 
 <br/>
