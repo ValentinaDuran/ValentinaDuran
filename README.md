@@ -1,4 +1,4 @@
-## Hi there 👋 I´m Valentina Duran
+## Hi there 👋 I'm Valentina Duran
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
